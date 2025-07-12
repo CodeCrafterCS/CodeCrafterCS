@@ -1,8 +1,9 @@
 <h1 align="center">Hey there! 👋 I'm Harsh Raju Gadekar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Cyber+Security+Enthusiast;Full-Stack+Web+Developer;3x+Certified+Tech+Explorer;Always+Learning+📚" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coder gif" width="400" />
 </p>
+
 
 
 

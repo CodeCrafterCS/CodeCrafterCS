@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Harsh Raju Gadekar</h1>
 
-<table width="150%">
+<table width="550%">
   <tr>
     <td align="center"><h3>🔐 Cyber Security Enthusiast</h3></td>
     <td align="center">

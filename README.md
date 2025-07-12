@@ -6,7 +6,7 @@
     <td align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF">
     </td>
-    <td align="center"><h3>💻 Web Development 💻 </h3></td>
+    <td align="center"><h3>💻Full-Stack Developer </h3></td>
   </tr>
 </table>
 

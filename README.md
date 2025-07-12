@@ -1,22 +1,14 @@
 <h1 align="center">Hey there! 👋 I'm Harsh Raju Gadekar</h1>
 
-<div align="center" style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
-
-  <div>
-    <h3>🔐 Cyber Security Enthusiast</h3>
-  </div>
-
-  <div>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder" width="250" />
-  </div>
-
-  <div>
-    <h3>💻 Web Developer</h3>
-  </div>
-
-</div>
-
-
+<table width="100%">
+  <tr>
+    <td align="center"><h3>🔐 Cyber Security Enthusiast</h3></td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF">
+    </td>
+    <td align="center"><h3>💻 Web Developer</h3></td>
+  </tr>
+</table>
 
 
 ---

@@ -1,8 +1,9 @@
 <h1 align="center">Hey there! 👋 I'm Harsh Raju Gadekar</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Cyber+Security+Enthusiast;Full-Stack+Web+Developer;3x+Certified+Tech+Explorer;Always+learning+%F0%9F%93%9A" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Cyber+Security+Enthusiast;Full-Stack+Web+Developer;3x+Certified+Tech+Explorer;Always+Learning+📚" alt="Typing SVG" />
+</p>
+
 
 
 ---
